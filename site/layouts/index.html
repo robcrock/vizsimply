@@ -1,10 +1,32 @@
-{{ partial "header" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
 
-{{ if .Content }}
-  <div class='entry'>
-    {{ partial "entry/cover" . }}
-    {{ partial "entry/content" . }}
+{{ partial "head.html" . }}
+
+<body>
+
+  <div id="all">
+
+    <header>
+
+    {{ partial "top.html" . }}
+    {{ partial "nav.html" . }}
+
+    </header>
+
+    {{ partial "carousel.html" . }}
+    {{ partial "features.html" . }}
+    {{ partial "testimonials.html" . }}
+    {{ partial "see_more.html" . }}
+    {{ partial "recent_posts.html" . }}
+    {{ partial "clients.html" . }}
+    {{ partial "footer.html" . }}
+
   </div>
-{{ end }}
+  <!-- /#all -->
 
-{{ partial "footer" . }}
+  {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

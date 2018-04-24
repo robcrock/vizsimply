@@ -1,6 +1,10 @@
----
-title: "Don't Over Do the Donuts"
----
++++
+title = "Don't Over Do the Donuts"
+date = "2015-06-24T13:50:46+02:00"
+tags = ["theme"]
+categories = ["starting"]
+banner = "img/banners/banner-1.jpg"
++++
 
 ## WHAT'S A LIFT?
 A lift is my way improving a visualization by isolating one feature that hinders our perception in some way. Data visualization is complex, but that doesn't mean there aren't informed approaches anyone can take to make more accessible visualizations. I hope by sharing these bite-size improvements we can learn how to avoid common missteps and better defend our design decisions.
