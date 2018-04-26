@@ -22,15 +22,15 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+   name = "About"
+   identifier = "about"
+   url  = "/about/"
+   weight = 2
+
+[[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 2
-
-# [[menu.main]]
-#    name = "FAQ"
-#    identifier = "faq"
-#    url  = "/faq/"
-#    weight = 3
+    weight = 3
 
 [[menu.main]]
     name = "Contact"
@@ -90,20 +90,16 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Serving clients around the world make better decisions with well designed data visualizations.</p>"
+    copyright = "Copyright (c) 2018, VizSimply; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>VizSimply</strong>
+        <br>WhatsApp +1 (901) 634-8275
+        <br>Email robert@vizsiply.com
       </p>
       """
     latitude = "-12.043333"
@@ -115,7 +111,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact me on WhatsApp at +1 (901) 634-8275 or robert@vizsimply.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>

@@ -805,8 +805,8 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #38a7bb;
-  opacity: 0.9;
+  background: #3399cc;
+  opacity: 0.75;
   filter: alpha(opacity=90);
 }
 .jumbotron h1,
@@ -2603,7 +2603,7 @@ fieldset[disabled] .btn-template-primary.active {
 #copyright {
   background: #333;
   color: #ccc;
-  padding: 50px 0;
+  padding: 10px 0;
   font-size: 12px;
   line-height: 28px;
 }
