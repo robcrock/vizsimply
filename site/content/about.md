@@ -4,40 +4,36 @@ description = "What is Viz Simply About?"
 keywords = ["About","My story","Robert Crocker","robcrock","Freelance","Remote"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Well designed dashboards take you from the gut instinct mode of operation to data driven in days not weeks or months. Let us help you get ahead of the competition.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## WHAT IS THIS BLOG ABOUT?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+In this blog I will be sharing the insights of some of the most inspiring data visualization professionals around the world, unpacking how our minds makes sense of visual forms and exploring the leading technologies used by practitioners today.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Done are the days of dull data. Data visualization is ultimately a means of communication. What is different about this medium is how effectively data driven pixels on your screen can capture the eyes of your audience by deeply engaging the those visual systems.
 
-## 2. WHAT ARE THE POSTAL RATES?
+To understand how you can increase the impact of your investment in data visualization services and technologies it is important to understand what makes visualizations so damn engaging.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## WHAT YOU WILL LEARN
 
-## 3. DO YOU SEND OVERSEAS?
+By sharing your time with me you will learn how data visualization can be leveraged to draw in your audience so that the messages you are trying to deliver will stick.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+You will learn this through interviews I have with other professionals in the field. I will break down element of visualization you can leverage such calls to action, interactivity, gestalt principles, and color theory to name a few. There will also be posts walking you through how to get started with Tableau, D3, Mapbox and other useful libraries or applications used today.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## WHO IS ROB?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+I am a freelance data visualization professional traveling the world to help clients looking to leverage data with visualization.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+My journey began in 2011 when I used Tableau to plot supply chain distributions networks across a map of the US. It was then that I realized how powerful data visualization is when making important decision. Before developing those maps, our strategy and business development teams were basing their decisions off of rudimentary Excel tables.
 
-## 5. ANOTHER IMPORTANT QUESTION
+After caping out what the business side of the house was comfortable with me doing technically, so I moved to into a role in the Information Technology department. The gave me the opportunity to craft the entire data visualization pipeline, from SQL stored procedures to dashboards, for the units I was helping to support.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+After spending years understanding how to optimize SQL queries, I found my self gravitating back into visuals designs. So, I uprooted from Atlanta, Georgia to San Francisco, California in hopes of deepening my technical skills and design sense.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+In San Francisco, I not only helped clients like First Republic Bank roll out Tableau Server to their organization but also delivered custom Tableau dashboards to the likes of Charles Schwab, Pinterest and others. During my time at Slalom, we incorporated much more than Tableau to design our dashboards. Thinking outside the scope of a single application stepped up my skills tremendously, and I thoroughly enjoyed my time there.
+
+I now travel to clients all over the world to train data visualization professionals, execute projects for clients and inspire as many people as I can who are interested in joining the flourishing community of data visualization professionals around the world.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> If your still unsure whether I'll be able to meet your needs reach out with more specific questions at robert@vizsimply.com 
