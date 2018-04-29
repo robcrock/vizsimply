@@ -14,7 +14,7 @@ Show up consistently and give the task whatever you have at the moment.
 
 If you want to “get in shape,” then start by going to the gym. Simply show up. Take a walk around the track while you’re there. Jump the rope a couple of times for kicks. Maybe pick up a weight if that all you’ve got that day. Hey, at least you came.
 
-![](http://localhost:3000/img/post-12/monkey.png)
+![](https://inspiring-swartz-09fd0f.netlify.com/blog/2018/04/26/how-to-get-good-at-tableau/img/post-12/monkey.png)
 
 The biggest problem with goal setting is that when we miss our deadlines, which will happen, we’re immediately disenchanted by the pursuit. We have fully failed. However, when we set a schedule for ourselves that fits into our lifestyle, we have the mindset of this being a journey and we gain the flexibility to get back on schedule when reality strikes.
 
