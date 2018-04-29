@@ -22,7 +22,7 @@ Your ability in the moment will pick up with practice. Every once in awhile the 
 
 To make this as easy to pick up as possible we’ll refer to a well-known habit formation cycle.
 
-![](http://localhost:3000/img/post-12/habit-formation-cycle.png)
+![](/img/post-12/habit-formation-cycle.png)
 
 1. Cue Set a calendar reminder for MakeoverMonday every Sunday
 2. Routine Read their article. Connect to the data. Ask 1 questions. Create 1 viz.
@@ -80,7 +80,7 @@ We continue doing the things that make us feel good.
 
 Positive self-talk is a hack that works for plenty of people. I like writing a daily affirmation and scratching off Pomodoro bubbles in my [Productivity Planner](https://www.intelligentchange.com/products/the-productivity-planner).
 
-![](http://localhost:3000/img/post-12/productivity-journal.png)
+![](/img/post-12/productivity-journal.png)
 
 The act of rewarding yourself is an acknowledgment of the progress you have made. Researchers have found the feeling of achievement or sense of accomplishment to be extremely powerful in promoting repeated behaviors.
 
@@ -102,7 +102,7 @@ Beliefs are better than goals when forming a new behavior because what you’re 
 
 Often we try to achieve a performance-based change without proving to ourselves that we’re the type of person who can change. I started trying to get a side split by telling myself “I have never been flexible.” Guess what, I proved myself right and still don’t look like this picture.
 
-![](http://localhost:3000/img/post-12/splits.png)
+![](/img/post-12/splits.png)
 
 It’s easier to think of success as a series of small steps repeated, rather than a massive accomplishment. This idea is why breaking big problems down into snack sizes is more productive.
 

@@ -10,11 +10,11 @@ There are plenty of ways one can go about analyzing the rich recesses in Trumps 
 
 In April 2016, the media repeatedly reported on [Trump's warning of a rough July](http://fortune.com/2016/04/18/donald-trump-rough-july/). Trump went so far as to say there could be riots at the Republican National Convention if things didn’t go his way. You mess with Trump's campaign you mess with his staunch supporters.
 
-![](http://localhost:3000/post1-trump-yelling.png)
+![](/img/post-1/trump-yelling.png)
 
 To be honest, I don’t follow politics closely. These reports and threats were new news. What drew my attention to this tense period in history was the sentiment (read: emotion) in Trump’s tweets during July 2016.
 
-![](http://localhost:3000/post1-area-chart.png)
+![](/img/post-1/area-chart.png)
 </iframe>
   <div class='tableauPlaceholder' id='viz1524741612356' style='position: relative'>
     <noscript>
@@ -51,11 +51,11 @@ Sentiment analysis is the computational process Timo and Robo used to pull out t
 
 While sentiment analysis is useful, it hasn’t yet evolved to a point where we can capture all the nuanced emotions of our text. To keep the analysis simple and clear, we divided the compound score* into three categories; negative was less than 0% (on a -100% to 100% scale), positive if the tweet had a score higher than 0% and neutral when it equaled 0.
 
-![](http://localhost:3000/post1-sentiment-calculation.png)
+![](/img/post-1/sentiment-calculation.png)
 
 Our sentiment analysis shows that July 2016 is the first point where positive sentiment fell below 50%.
 
-![](http://localhost:3000/post1-low-positivity.png)
+![](/img/post-1/low-positivity.png)
 
 Trump said it would be a rough July, but I doubt he knew just how rough. The United States experienced a series of civilian attacks on police officers and saw terrorism in Florida as well as Nice, France.
 

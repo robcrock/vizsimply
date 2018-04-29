@@ -12,7 +12,7 @@ Cole has been busily globetrotting for years teaching people at almost any compa
 
 Earlier this year I had the privilege of attending one of her public workshops. I had few expectations coming into the workshop, having attended several others in the past. As soon as I entered the classroom, I knew this was going to be different.
 
-![](http://localhost:3000/post2-insta-shot.png)
+![](/img/post-2/insta-shot.png)
 
 Cole goes to great lengths, in her workshops, to ensure attendees walk away with new found knowledge they can directly apply to their work. This workshop pushed me to not only leverage methods used by Disney to craft cohesive stories, but also detangle contorted visualizations through best practices taught throughout the day-long training.
 
@@ -22,7 +22,7 @@ During this public redesign, you’ll have a chance to think critically about a 
 
 Cole’s ask is simple. She wants you to show the data as you would if it was your own data to report. She also asks that you provide a new headline. You can read her original post [here](http://www.storytellingwithdata.com/).
 
-![](http://localhost:3000/post2-original-chart.png)
+![](/img/post-2/original-chart.png)
 
 Be sure to email your redesign to Cole at [makeover@storytellingwithdata.com](mailto:makeover@storytellingwithdata.com) before Friday September, 22nd.
 

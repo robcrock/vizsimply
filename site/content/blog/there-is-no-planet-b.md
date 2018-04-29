@@ -20,13 +20,13 @@ This survey is anything but lengthy, however I can why you may want to take your
 
 The 17 Goals in this survey were said to have been strongly influenced by the perspective captured in the quote of United Nations Secretary General, Ban Ki-moon.
 
-![](http://localhost:3000/pm.png)
+![](/img/post-7/pm.png)
 
 While this may be true the history of these surveys precede the 2030 initiative. In 2015 we had the MY World 2015 Survey to try to understand which of the 16 Goals, at that time, were most important as the world leaders prepare to develop a better world.
 
 On September 25th, 2015 the 17 SDGs were chosen.
 
-![](http://localhost:3000/sdg.png)
+![](/img/post-7/sdg.png)
 
 It is these 17 SDGs the MY World 2030 Survey is concerned with. Until 2030, it will be these 17 goals, aimed at ending poverty, protecting the planet, and ensuring prosperity for all the world leaders will place their focus.
 
@@ -38,7 +38,7 @@ Even more brilliant is the UN's enlistment of two top data visualization communi
 
 Here's a GIF of my mobile submission.
 
-![](http://localhost:3000/sdg.gif)
+![](/img/post-7/sdg.gif)
 
 This [visualization](https://public.tableau.com/views/workspace/MMWeek36?:embed=y&:display_count=yes) gives citizens who have not yet taken the survey a chance to familiarize themselves with the responses made as of September 3rd, 2017. I hope that after people see how MY World data might be summarized for world leader, citizens will better understand why their votes matter.
 

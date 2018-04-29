@@ -6,7 +6,7 @@ categories = ["starting"]
 banner = "img/banners/banner-1.jpg"
 +++
 
-![](http://localhost:3000/post5-original-chart.png)
+![](/img/post-5/original-chart.png)
 
 ## What works
 
@@ -23,13 +23,13 @@ banner = "img/banners/banner-1.jpg"
 * Add annotations at points where lines intersect
 * Research proper x-axis / y-axis ratios
 
-![](http://localhost:3000/post5-chart-makeover.png)
+![](/img/post-5/chart-makeover.png)
 
 ## A few fun tips
 
 1. Spectrum
 
-![](http://localhost:3000/post5-spectrum.gif)
+![](/img/post-5/spectrum.gif)
 
 I use [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb) to test for colorblindness.
 
@@ -39,13 +39,13 @@ While most colors are free to use, notice what happens when the low-contrast opt
 
 2. ColorZilla
 
-![](http://localhost:3000/post5-colorzilla.gif)
+![](/img/post-5/colorzilla.gif)
 
 My favorite tool to use top pick pretty colors is [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp). Regardless of the tool you use, ColorZilla makes it super simple to grab those HEX codes your visualization tools needs for custom colors.
 
 3. The golden ratio
 
-![](http://localhost:3000/post5-colorzilla.golden-ratio.png)
+![](/img/post-5/colorzilla.golden-ratio.png)
 
 In order to make my visualization (technically) beautiful the dimensions need to be just perfect 👌 [Visua.ly](https://visual.ly/community/presentation/business/golden-ratio-design) has a good slide deck you can run through to learn more about the golden ratio if you are into that sorta superficial stuff.
 

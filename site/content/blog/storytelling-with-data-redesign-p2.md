@@ -24,29 +24,29 @@ The steps taken to clean up a visualization aren’t nearly as deep as those of 
 
 ## WHAT'S WRONG WITH THIS PICTURE?
 
-![](http://localhost:3000/post3-chart1.png)
-![](http://localhost:3000/post3-chart2.png)
-![](http://localhost:3000/post3-chart3.png)
-![](http://localhost:3000/post3-chart4.png)
-![](http://localhost:3000/post3-chart5.png)
-![](http://localhost:3000/post3-chart6.png)
-![](http://localhost:3000/post3-chart7.png)
-![](http://localhost:3000/post3-chart8.png)
+![](/img/post-3/chart1.png)
+![](/img/post-3/chart2.png)
+![](/img/post-3/chart3.png)
+![](/img/post-3/chart4.png)
+![](/img/post-3/chart5.png)
+![](/img/post-3/chart6.png)
+![](/img/post-3/chart7.png)
+![](/img/post-3/chart8.png)
 
 ## TIME TO TIDY UP
 
-![](http://localhost:3000/post3-sec2-chart1.png)
-![](http://localhost:3000/post3-sec2-chart2.png)
-![](http://localhost:3000/post3-sec2-chart3.png)
-![](http://localhost:3000/post3-sec2-chart4.png)
-![](http://localhost:3000/post3-sec2-chart5.png)
-![](http://localhost:3000/post3-sec2-chart6.png)
-![](http://localhost:3000/post3-sec2-chart7.png)
+![](/img/post-3/sec2-chart1.png)
+![](/img/post-3/sec2-chart2.png)
+![](/img/post-3/sec2-chart3.png)
+![](/img/post-3/sec2-chart4.png)
+![](/img/post-3/sec2-chart5.png)
+![](/img/post-3/sec2-chart6.png)
+![](/img/post-3/sec2-chart7.png)
 
 ## BEFORE AND AFTER
 
-![](http://localhost:3000/post3-sec3-chart1.png)
-![](http://localhost:3000/post3-sec3-chart2.png)
+![](/img/post-3/sec3-chart1.png)
+![](/img/post-3/sec3-chart2.png)
 
 With all the mess put away, we can start the redesign. A full remodel mean we get to construct a completely new chart or collection of charts to more powerfully communicate our message.
 

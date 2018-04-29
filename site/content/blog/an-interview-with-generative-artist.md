@@ -12,7 +12,7 @@ This post is the first in a series of interviews with Data Visualization folks. 
 
 Like many practicing data visualization, Kristin Henry can’t define easily. Kristin currently describes herself as a generative artist. She combines her background in math, biology, and computer science to generate pleasurable pieces to inspire, engage, and educate.
 
-![](http://localhost:3000/img/post-8/sticker-1.png)
+![](/img/post-8/sticker-1.png)
 
 For those who haven’t heard the term generative art, it is an art form that features systems as their key ingredient. Even if you have heard the term before, but you aren’t familiar with the history, like I was, you can read a full paper on the subject here.
 
@@ -20,7 +20,7 @@ Again, systems are the key to this art form. You can think Kristin work as writi
 
 Here is one of Kristin’s work illustrating an abstract system of neurons.
 
-![](http://localhost:3000/img/post-8/wall-art.png)
+![](/img/post-8/wall-art.png)
 
 ## our conversation
 
@@ -28,7 +28,7 @@ Being someone curious about how Kristin has continued to hone her craft over the
 
 Our conversation will shed light on how you might want to think about your journey into generative artistry or merely broaden your perspective by taking a look at the world of development through Kristin's eyes.
 
-![](http://localhost:3000/img/post-8/sticker-2.png)
+![](/img/post-8/sticker-2.png)
 
 ### What skill is most important in your work?
 
@@ -68,7 +68,7 @@ Don’t be cute with your code or at least explain why in the comments. Kristin 
 
 Functions should describe what they do. If you have to tab complete to write the function or variable name, then it far too long. Short and sweet naming conventions make your functions more usable.
 
-![](http://localhost:3000/img/post-8/pop-art.png)
+![](/img/post-8/pop-art.png)
 
 ### Want to connect with Kristin? Be friends? Purchase a piece? Contract her?
 

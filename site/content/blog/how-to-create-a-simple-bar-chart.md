@@ -14,7 +14,7 @@ Otherwise, move right along to this simple bar chart walkthrough.
 
 This is what your bar chart should look like when you are done.
 
-![](http://localhost:3000/img/post-10/final-chart.png)
+![](/img/post-10/final-chart.png)
 
 One of the old faithful chart types. Bar charts do a great job comparing different categories to one another along a shared axis.
 
@@ -41,7 +41,7 @@ To build a basic bar chart we will want a dataset with one column of categories 
 
 The dataset for this example is from [Week 8 of Makeover Monday](https://data.world/makeovermonday/2018w8-where-does-your-medicine-come-from). To get the subset of the MakeoverMonday dataset I used to build the bar chart simply download the [gist](https://gist.githubusercontent.com/robcrock/245c45015de34207d79dbafdde27b8fd/raw/0f1f51abbe39a7e2a4a65e07ace25ed7305e32c7/data.csv).
 
-![](http://localhost:3000/img/post-10/data-table.png)
+![](/img/post-10/data-table.png)
 
 To avoid Makeover Monday getting on to me I have to mention the importance of referencing the dataset you are using. Whenever possible link back to the original source.
 
@@ -53,7 +53,7 @@ Honestly, we could put our code in one HTML file and be done with it, but since 
 
 You can download a started folder I put together from [Github](https://github.com/robcrock/simple_chart_boilerplate).
 
-![](http://localhost:3000/img/post-10/repository.png)
+![](/img/post-10/repository.png)
 
 We are almost ready to start coding, I promise.
 
@@ -63,7 +63,7 @@ No idea what I am talking about? This [post](http://jasonwatmore.com/post/2016/0
 
 Once up and running you should see a window similar to the one below.
 
-![](http://localhost:3000/img/post-10/first-look.png)
+![](/img/post-10/first-look.png)
 
 ## Is it time to code?
 
@@ -79,11 +79,11 @@ Now that your environment is up and running we can add our data to the mix. To d
 
 Now let’s log our data to to see what we are working with.
 
-![](http://localhost:3000/img/post-10/first-log.png)
+![](/img/post-10/first-log.png)
 
 To open the beloved console you can read use the [Keyboard Shortcut](https://developers.google.com/web/tools/chrome-devtools/shortcuts) Reference table below.
 
-![](http://localhost:3000/img/post-10/keyboard-shortcuts.png)
+![](/img/post-10/keyboard-shortcuts.png)
 
 We can see that our data is being served to the browser. Now we need to coerce those export value into numbers. We can tell that they aren’t in numbers yet because they are the same color as the exporters, which are clearly text. In JavaScript nomenclature, we call text [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String).
 
@@ -97,7 +97,7 @@ data.forEach(row => {
 
 Now we see our red text turn has turn blue. Numbers always come through as blue in the console, which means this data can be used in our bar chart.
 
-![](http://localhost:3000/img/post-10/second-log.png)
+![](/img/post-10/second-log.png)
 
 The last thing we need to address is sorting.
 
@@ -261,7 +261,7 @@ The first element of the array passed into the domain will map to the first elem
 
 To get a row for each exporter we'll use one of D3s ordinal scales, scaleBand. If we want to evenly distribute points along our y-axis, then we would use scalePoint, but we are after bars here so we’ll focus on [bands](https://github.com/d3/d3-scale#band-scales).
 
-![](http://localhost:3000/img/post-10/scale-bands.png)
+![](/img/post-10/scale-bands.png)
 
 Side note, the bandwidth value will come in handy later, when we want to set a width for our bars.
 
@@ -278,7 +278,7 @@ The syntax is almost the same, with the exception of paddingInner. paddingInner 
 
 This phase won’t win you any data visualization awards, but you will starting seeing much more chart like things on your screen.
 
-![](http://localhost:3000/img/post-10/no-css.png)
+![](/img/post-10/no-css.png)
 
 Here’s the code…
 
@@ -321,7 +321,7 @@ D3 generators save you hours of work by perfectly positioning tick marks, lines,
 
 Why don’t we apply some styles? With a little CSS...
 
-![](http://localhost:3000/img/post-10/with-css.png)
+![](/img/post-10/with-css.png)
 
 Better, no? A little less jail cell like.
 
@@ -425,7 +425,7 @@ Most of your charts won’t require you to adjust units like this, but at least 
 
 Here’s a table that does a better job expressing how we have found ourselves needing to replace a G with a B.
 
-![](http://localhost:3000/img/post-10/si-prefixes.png)
+![](/img/post-10/si-prefixes.png)
 
 Notice that the SI name for 1,000,000,000 is Giga and the symbol is G.
 
@@ -442,7 +442,7 @@ this.plot.append("g")
 
 ### Time to adjust our titles
 
-![](http://localhost:3000/img/post-10/titles.png)
+![](/img/post-10/titles.png)
 
 No chart is complete without descriptive text explaining what the heck you are looking at. Cole, of storytelling with data would recommend using a takeaway title. These takeaway titles are meant to tell you just that, what should I “takeaway” from seeing this visualization.
 
@@ -477,7 +477,7 @@ addTitles() {
 
 ### Time to create our bars
 
-![](http://localhost:3000/img/post-10/final-chart.png)
+![](/img/post-10/final-chart.png)
 
 Boom 💥
 

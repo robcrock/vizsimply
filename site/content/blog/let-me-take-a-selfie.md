@@ -24,7 +24,7 @@ For attendees of TED 2017 in Toronto, Giorgia’s design agency [Accurat](https:
 
 Don’t worry; I am feeling the FOMO too. I can only imagine how many people connected on a personal level thanks to these cute, catalysts for conversation.
 
-![](http://localhost:3000/post6-button-image.png)
+![](/img/post-6/button-image.png)
 
 The [D3 Unconf](http://visfest.com/) shares similar shenanigans with their attendees.
 
@@ -32,17 +32,17 @@ During registration, you're asked to create a GIF of any chart you have made wit
 
 Here’s [Nadieh Bremer](https://www.visualcinnamon.com/), playing with a badge the Unconf Organizers made from of her [Data Sketches visualization for July](http://www.datasketch.es/july/code/nadieh/).
 
-![](http://localhost:3000/post6-badge.gif)
+![](/img/post-6/badge.gif)
 
 Thankfully you don’t need a conference or experience with D3 to sketch your selfie. Giorgia Lupi has created a step-by-step, so anyone can make a personalized self-portrait.
 
 Here’s what I look like on paper.
 
-![](http://localhost:3000/post6-my-selfie.png)
+![](/img/post-6/my-selfie.png)
 
 And Ivett...
 
-![](http://localhost:3000/post6-ivett-selfie.png)
+![](/img/post-6/ivett-selfie.png)
 
 Thankfully, this isn’t a beauty contest.
 
@@ -52,11 +52,11 @@ To get started grab a handful of your preferred drawing utensils. To follow Gior
 
 Here's step one of Lupi's [guide](https://ideas.ted.com/how-to-draw-your-own-selfie-using-your-personal-data/) to get you going
 
-![](http://localhost:3000/post6-getting-started.png)
+![](/img/post-6/getting-started.png)
 
 In an upcoming post, I’ll share a framework I made up to see myself from another angle.
 
-![](http://localhost:3000/post6-island.png)
+![](/img/post-6/island.png)
 
 Call me conceited 😎
 
