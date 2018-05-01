@@ -1,9 +1,9 @@
 +++
 title = "Chickens Continue to Fly High"
 date = "2018-04-26T14:23:20+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["MakeoverMonday", "Tips"]
+categories = ["Makeover"]
+banner = "img/post-5/banner.png"
 +++
 
 ![](/img/post-5/original-chart.png)

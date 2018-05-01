@@ -1,9 +1,9 @@
 +++
 title = "There Is No Planet B"
 date = "2018-04-26T14:24:13+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Environment"]
+categories = ["Makeover"]
+banner = "img/post-7/banner.png"
 +++
 
 The United Nations (UN) has a few ambitious goals up their globe spanning sleeves. In this post I'll be writing specifically about the MY World 2030 survey.

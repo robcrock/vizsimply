@@ -1,9 +1,9 @@
 +++
 title = "Why Are You Busting My Bubbles"
 date = "2018-04-26T14:25:44+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Chart Type", "Bubble Chart"]
+categories = ["Makeover"]
+banner = "img/post-9/banner.png"
 +++
 
 MakeoverMonday was an especially special event this week as the digital gathered together at the Tableau Customer Conference for a live makeover in Vegas. As you can imagine this is an exciting opportunity to meet fellow #MakeoverMonday regulars and newbies in real life, but also a challenge yourself to create something presentable within an hour while Andy and Eva looking over your shoulder.

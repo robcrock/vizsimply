@@ -1,9 +1,9 @@
 +++
 title = "An Interview With Generative Artist"
 date = "2018-04-26T14:24:39+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Generative Art"]
+categories = ["Interview"]
+banner = "img/post-8/banner.png"
 +++
 
 This post is the first in a series of interviews with Data Visualization folks. In these posts, I will be interviewing friends, former colleagues, and others whose work I find inspiring. It will be interesting to see how differently everyone approaches their craft, found themselves practicing data visualization and any other unique quality they would like to share.

@@ -3,7 +3,7 @@ title = "Storytelling With Data Redesign P2"
 date = "2018-04-26T14:22:55+08:00"
 tags = ["theme"]
 categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+banner = "img/post-3/banner.png"
 +++
 
 In [part 1](https://vizsimply.com/blog/2017/9/17/rare-redesign-for-storytelling-with-data-p1) of this storytelling with data redesign series, we simply set the stage. In this post, we walk through the cleanup process.

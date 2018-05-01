@@ -1,9 +1,9 @@
 +++
 title = "How to Create a Simple Bar Chart"
 date = "2018-04-26T14:26:46+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["D3", "Bar Chart"]
+categories = ["Tutorial"]
+banner = "img/post-10/banner.png"
 +++
 
 If you are new to the Simple Chart series and would like to get some clarity on what this is about please go check out the [intro](https://vizsimply.com/blog/2018/3/2/a-simple-chart).

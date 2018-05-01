@@ -1,9 +1,9 @@
 +++
 title = "Let Me Take a Selfie"
 date = "2018-04-26T14:23:58+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Drawing", "Data Humanism"]
+categories = ["Creative"]
+banner = "img/post-6/banner.png"
 +++
 
 One of my data viz friends, who arguably has THE most enviable domain name, [dataviz.love](http://dataviz.love/), recently introduced me to a fun sketching project. In the project [Giorgia Lupi](http://giorgialupi.com/), master of pretty, personalized data visualizations and more, shares a step-by-step approach we can follow to draw selfies.

@@ -3,7 +3,7 @@ title = "Don't Over Do the Donuts"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["Chart Type"]
 categories = ["Makeover"]
-banner = "img/banners/banner-1.jpg"
+banner = "img/post-11/banner.png"
 +++
 
 ## WHAT'S A LIFT?

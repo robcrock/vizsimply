@@ -3,7 +3,7 @@ title = "How to Get Good at Tableau"
 date = "2018-04-26T14:27:18+08:00"
 tags = ["theme"]
 categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+banner = "img/post-12/banner.png"
 +++
 
 Getting good at Tableau should not be your goal. In fact, let’s [forget about goals](http://jamesclear.com/goals-systems) altogether. We are going to construct a system that works.

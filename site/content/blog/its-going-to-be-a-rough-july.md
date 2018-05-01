@@ -3,7 +3,7 @@ title = "Its Going to Be a Rough July"
 date = "2018-04-26T14:22:17+08:00"
 tags = ["Sentiment","Tableau","Collaboration"]
 categories = ["Analysis"]
-banner = "img/banners/banner-1.jpg"
+banner = "img/post-1/banner.png"
 +++
 
 There are plenty of ways one can go about analyzing the rich recesses in Trumps Twitter archives. Tim, and I wanted to see if sentiment analysis would turn up anything useful. In this short post, we share what was found.

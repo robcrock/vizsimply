@@ -1,9 +1,9 @@
 +++
-title = "A Simply Chart"
+title = "A Simple Chart"
 date = "2015-06-24T13:50:46+02:00"
 tags = ["D3"]
-categories = ["Side Project"]
-banner = "img/banners/banner-1.jpg"
+categories = ["Tutorial"]
+banner = "img/post-13/banner.png"
 +++
 
 This project was inspired by Andy Kirk's [Chart Maker Directory](http://chartmaker.visualisingdata.com/). Each post in this series will cover the basics of building chart a from Andy’s list with D3.

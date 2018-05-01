@@ -1,9 +1,9 @@
 +++
 title = "Storytelling With Data Redesign P1"
 date = "2018-04-26T14:22:53+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Storytelling with data"]
+categories = ["Makeover"]
+banner = "img/post-2/banner.png"
 +++
 
 Cole, of storytelling with data, doesn’t host public redesigns often. This is a rare opportunity to practice with a master.

@@ -1,9 +1,9 @@
 +++
 title = "Storytelling With Data Redesign P3"
 date = "2018-04-26T14:22:58+08:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+tags = ["Storytelling with data"]
+categories = ["Makeover"]
+banner = "img/post-4/banner.png"
 +++
 
 *Read the full post to find out what the insight from this chart and Michael Phelps have in common.*
