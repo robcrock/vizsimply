@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 10
+paginate = 100
 
 [menu]
 
@@ -121,7 +121,7 @@ paginate = 10
 [params.widgets]
     categories = true
     tags = true
-    search = true
+    search = false
 
 [params.carousel]
     enable = true

@@ -1,8 +1,8 @@
 +++
 title = "Storytelling With Data Redesign P2"
 date = "2018-04-26T14:22:55+08:00"
-tags = ["theme"]
-categories = ["starting"]
+tags = ["Storytelling with data"]
+categories = ["Makeover"]
 banner = "img/post-3/banner.png"
 +++
 

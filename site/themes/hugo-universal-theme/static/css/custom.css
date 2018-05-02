@@ -8,3 +8,9 @@
 .box-simple {
   min-height: 230px;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
