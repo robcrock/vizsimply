@@ -1,26 +1,23 @@
 +++
 title = "About"
+id = "about"
 description = "What is Viz Simply About?"
 keywords = ["About","My story","Robert Crocker","robcrock","Freelance","Remote"]
 +++
 
-Well designed dashboards take you from the gut instinct mode of operation to data driven in days not weeks or months. Let us help you get ahead of the competition.
+I believe Well designed are the best way to understand data. Afterall, most of your mind is dedicated to seeing information. It only make sense that you would make more of your information seeable.
 
-## WHAT IS THIS BLOG ABOUT?
+## WHAT IS THIS SITE ABOUT?
 
-In this blog I will be sharing the insights of some of the most inspiring data visualization professionals around the world, unpacking how our minds makes sense of visual forms and exploring the leading technologies used by practitioners today.
+I have built and will maintain this site to share my slice of the data visualization pie with you.
 
-Done are the days of dull data. Data visualization is ultimately a means of communication. What is different about this medium is how effectively data driven pixels on your screen can capture the eyes of your audience by deeply engaging the those visual systems.
+In this blog you will come around insights shared by some of the most inspiring data visualization professionals from around the world, unpacking how our minds make sense of visual forms.
 
-To understand how you can increase the impact of your investment in data visualization services and technologies it is important to understand what makes visualizations so damn engaging.
-
-## WHAT YOU WILL LEARN
-
-By sharing your time with me you will learn how data visualization can be leveraged to draw in your audience so that the messages you are trying to deliver will stick.
-
-You will learn this through interviews I have with other professionals in the field. I will break down element of visualization you can leverage such calls to action, interactivity, gestalt principles, and color theory to name a few. There will also be posts walking you through how to get started with Tableau, D3, Mapbox and other useful libraries or applications used today.
+I'll also share my experiences working with and picking up the leading technologies being rolled out today.
 
 ## WHO IS ROB?
+
+![](/img/about/head-shot.png)
 
 I am a freelance data visualization professional traveling the world to help clients looking to leverage data with visualization.
 

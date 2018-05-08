@@ -1,20 +1,19 @@
 /* your styles go here */
-
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
 }
-
 .box-simple {
   min-height: 230px;
 }
-
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 .navbar-brand img {
   width: 200px;
+}
+#about {
+  margin-bottom: 25px;
 }
