@@ -88,7 +88,7 @@ paginate = 100
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "robert@vizsimply.com"
 
     about_us = "<p>Serving clients around the world make better decisions with well designed data visualizations.</p>"
     copyright = "Copyright (c) 2018, VizSimply; all rights reserved."
@@ -97,11 +97,7 @@ paginate = 100
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>VizSimply</strong>
-        <br>WhatsApp +1 (901) 634-8275
-        <br>Email robert@vizsiply.com
-      </p>
-      """
+    address = "<p>WhatsApp +1 (901) 634-8275</p><p>Email robert@vizsiply.com</p>"
     latitude = "-12.043333"
     longitude = "-77.028333"
 
